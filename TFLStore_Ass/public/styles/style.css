@@ -1,0 +1,17 @@
+
+  body {background-color: palevioletred ;}
+  p {font-family: Verdana, Geneva, Tahoma, sans-serif;font-size: 25px;} 
+  h1 {color:purple (179, 255, 0); text-align: right;}
+  h2 {font-family: 'Courier New', Courier, monospace;}
+
+   .myDivStyle1{
+    background-color: blue; 
+    height:100px; 
+    width:300px
+}
+
+.myDivStyle2{
+    background-color: green; 
+    height:200px; 
+    width:300px
+}
